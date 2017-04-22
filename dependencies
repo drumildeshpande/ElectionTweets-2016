@@ -1,0 +1,13 @@
+Following are the dependencies:
+
+	libsvm - 3.21
+	python - 2.x
+	nltk
+	keras
+	tensorflow
+	numpy
+	glob
+	urllib3
+	json
+
+
